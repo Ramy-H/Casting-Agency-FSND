@@ -21,6 +21,8 @@ This project uses flask and postgresql for it's backend and hosted on heruko.
 
 ### Deployment:
 - This API is deployed on heruko with this link as its base URL: https://castingagency-fsnd.herokuapp.com/
+
+### Endpoints:
 - The Flask app used for this project consists of a simple API with three endpoints:
 - `GET '/'`: This is a simple health check, which returns the response {"message":"Hello"}.
 - `GET '/movies'`
